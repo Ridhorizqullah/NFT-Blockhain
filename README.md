@@ -84,6 +84,3 @@ Untuk deploy ke jaringan Sepolia:
 Universitas Muhammadiyah Yogyakarta
 ```
 
----
-
-Jika kamu bisa memberikan **daftar file** atau **isi `contracts/`**, saya bisa buatkan README yang **lebih akurat dan spesifik**. Atau, jika ini bagian dari **tugas kelompok/praktikum**, sesuaikan nama file dan deskripsi sesuai dengan implementasimu!
